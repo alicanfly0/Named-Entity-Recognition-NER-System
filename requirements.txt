@@ -1,0 +1,9 @@
+torch>=1.9
+transformers>=4.30
+datasets>=2.0
+scikit-learn
+spacy
+pandas
+numpy
+tqdm
+seqeval
